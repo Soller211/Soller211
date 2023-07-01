@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on John Deere IT Intern<br>🌱 I’m currently learning Java and BackEnd Dev<br>😄 Pronouns: He/him<br>📫 How to reach me: https://www.linkedin.com/in/soller21/
+🔭 I’m currently studing <br>🌱 I’m currently learning C# and .NET and BackEnd Dev<br>😄 Pronouns: He/him<br>📫 How to reach me: https://www.linkedin.com/in/eduardo-soler-gonzalez
 
 
 ## 🌐 Socials:
